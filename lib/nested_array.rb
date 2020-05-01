@@ -7,7 +7,7 @@
   "Grapes",
   "Avocadoes",
   "Asparagus"
-]
+],
 
 #CONVENTIONAL_PRODUCE =
 [
